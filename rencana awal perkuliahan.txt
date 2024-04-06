@@ -3,5 +3,8 @@
 - beljar iot
 - belajar migration
 - belajar Ai
-- logika php
+
+- belajar Data Analysis
+- Data maining
+
 
