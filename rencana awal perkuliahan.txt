@@ -4,3 +4,4 @@
 - belajar migration
 - belajar Ai
 - belajar Data Analysis
+- Data maining
