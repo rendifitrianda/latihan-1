@@ -1,5 +1,4 @@
 - belajar python
 - belajar js
 - beljar iot
-- belajar migration
-- belajar Ai
+
